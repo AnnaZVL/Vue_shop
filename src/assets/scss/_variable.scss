@@ -1,0 +1,17 @@
+$color_white: #fff;
+$color_dark: #000;
+$color_text: #222;
+$color_text_form: #737373;
+$color_primery: #e02e72;
+$color_black: #150C26;
+$color_border: #e9e9e9;
+$color_border-second: #DEDEDE;
+$color_grey: #9D9D9D;
+$color_grey-light: #B9B9B9;
+$color_bg: #FAFAFA;
+
+$color-loader-hue: 337;
+$color-loader-bg: hsl($color-loader-hue,90%,90%);
+$color-loader-fg: hsl($color-loader-hue,90%,10%);
+$color-loader-primary: hsl($color-loader-hue,90%,50%);
+$trans-dur: 0.3s;

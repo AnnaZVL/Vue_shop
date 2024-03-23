@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Geometria';
+    font-style: normal; //../fonts/Geometria-Light.woff2
+    src: url("@/assets/fonts/Geometria-Light.woff2") format("woff2"); 
+    font-weight: 300;
+    font-display: swap;
+}
+
+@font-face {  
+  font-family: 'Geometria';
+  font-style: normal;
+  src: url("@/assets/fonts/Geometria-Regular.woff2") format("woff2"); 
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {  
+  font-family: 'Geometria';
+  font-style: normal;
+  src: url("@/assets/fonts/Geometria-Medium.woff2") format("woff2"); 
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {  
+  font-family: 'Geometria';
+  font-style: normal;
+  src: url("@/assets/fonts/Geometria-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {  
+  font-family: 'Geometria';
+  font-style: normal;
+  src: url("@/assets/fonts/Geometria-ExtraBold.woff2") format("woff2"); 
+  font-weight: 900;
+  font-display: swap;
+}
+
+@font-face {  
+  font-family: 'Circe';
+  font-style: normal;
+  src: url("@/assets/fonts/Circe-Regular.woff2") format("woff2"); 
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {  
+  font-family: 'Circe';
+  font-style: normal;
+  src: url("@/assets/fonts/Circe-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
+}
